@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vuyelwa2019
 - 👀 I’m interested in all things software quality
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and how to use Github
 - 💞️ I’m looking to collaborate on Testing projects
 - 📫 How to reach me ...
 
